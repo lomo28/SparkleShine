@@ -1,8 +1,8 @@
 ### Team SparkleShine
 #### Installation Instructions
-1. Download ninja.zip .
-1. Upload ninja.zip to webserver.
-1. Extract ninja.zip on webserver.
+1. Download Ninja.zip .
+1. Upload Ninja.zip to webserver.
+1. Extract Ninja.zip on webserver.
 1. Navigate to index.html in the extracted folder.
 
 #### Opening Game in Construct

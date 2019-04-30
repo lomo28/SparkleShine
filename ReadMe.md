@@ -1,4 +1,4 @@
-### Team SparkleShine
+### Team SparkleShine's Ninja Game
 #### Installation Instructions
 1. Download Ninja.zip .
 1. Upload Ninja.zip to webserver.
